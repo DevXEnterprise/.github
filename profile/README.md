@@ -30,4 +30,4 @@ Explore our repositories, dive into our projects, and discover the power of DevX
 
 **Contact Us**
 
-For inquiries, collaborations, or just to say hello, reach out to us at [team@thexitingway.com](mailto:team@thexitingway.com). We look forward to hearing from you!
+For inquiries or software consultations reach out to us at [team@thexitingway.com](mailto:team@thexitingway.com). We look forward to hearing from you!
